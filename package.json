@@ -1,0 +1,33 @@
+{
+  "name": "requestjs2.0",
+  "version": "1.0.0",
+  "description": "Request js library. Used for make sync/async xhr ( ajax ) request.",
+  "main": "dist/rjs.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-rybak/requestjs.git"
+  },
+  "keywords": [
+    "ajax",
+    "xhr",
+    "js",
+    "ajax",
+    "library",
+    "post",
+    "get",
+    "put",
+    "delete"
+  ],
+  "author": "s-rybak",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/s-rybak/requestjs/issues"
+  },
+  "homepage": "https://github.com/s-rybak/requestjs#readme",
+  "devDependencies": {
+    "mocha": "^6.1.3"
+  }
+}
